@@ -1,131 +1,351 @@
 {
-  "products": [
-    {
-      "title": "Mpets Carbon Training Pads - Pañales de Entrenamiento (60x60cm)",
-      "price": 36.9,
-      "author": "Ryan",
-      "image": "dog1.jpg",
-      "category": "dog",
-      "id": 1
-    },
-    {
-      "title": "Dogxtreme Adulto Salmón",
-      "price": 200.9,
-      "author": "Ryan",
-      "image": "dog2.jpg",
-      "category": "dog",
-      "id": 2
-    },
-    {
-      "title": "ProPlan Puppy Lamb - Cachorro Cordero",
-      "price": 414.9,
-      "author": "Ryan",
-      "image": "dog3.jpg",
-      "category": "dog",
-      "id": 3
-    },
-    {
-      "title": "Tk pet Arena aglomerante",
-      "price": 89.9,
-      "author": "Ryan",
-      "image": "cat1.jpg",
-      "category": "cat",
-      "id": 4
-    },
-    {
-      "title": "Barker Cat Salmón y Jurel (500 g) 20 Hamburguesas",
-      "price": 13.9,
-      "author": "Ryan",
-      "image": "cat2.png",
-      "category": "cat",
-      "id": 5
-    },
-    {
-      "title": "Mpets Carbon Training Pads - Pañales de Entrenamiento (60x60cm)",
-      "price": 36.9,
-      "author": "Ryan",
-      "image": "dog1.jpg",
-      "category": "other",
-      "id": 6
-    },
-    {
-      "title": "Bentto Cat Super Premium",
-      "price": 15.90,
-      "author": "Ryan",
-      "image": "bentto.jpg",
-      "category": "cat",
-      "id": 7
-    },
-    {
-      "title": "Trixie Arena de Silice Simple and Clean para conejos 400g",
-      "price": 10.90,
-      "author": "Ryan",
-      "image": "rabbit.png",
-      "category": "other",
-      "id": 8
-
-    },
-    {
-      "title": "Jaula Conejera 102*53*46cm",
-      "price": 360.00,
-      "author": "Ryan",
-      "image": "Jaula.png",
-      "category": "other",
-      "id": 9
-
-    },
-    {
-      "title": "Trixie Casita de madera para roedores",
-      "price": 30.90,
-      "author": "Ryan",
-      "image": "Casa.png",
-      "category": "other",
-      "id": 10
-
-    }
-  ],
-  "most_purchased_products": [
+  "treatments_by_patient": [
     {
       "id": 1,
-      "name": "Whiskas Adults",
-      "description": "Fish flavor",
-      "price": 30,
-      "image": "https://wongfood.vteximg.com.br/arquivos/ids/392954-750-750/Whiskas-Alimento-Seco-para-Gatos-Adultos-Sabor-Pescado-Bolsa-1-5-Kg-1-183177610.jpg?v=637406372341730000"
+      "treatment_id": 1,
+      "patient_id": 1,
+      "title": "Lumbar Spine",
+      "description": "Your lumbar spine consists of the five bones (vertebra) in your lower back. Your lumbar vertebrae, known as L1 to L5, are the largest of your entire spine. Your lumbar spine is located below your 12 chest (thoracic) vertebra and above the five fused bones that make up your triangular-shaped sacrum bone.",
+      "sessions_quantity": 28,
+      "physiotherapist_id": 1,
+      "photo": "https://orientacion.universia.edu.pe/imgs2011/imagenes/1k---2020--2020_10_30_143836@2x.766.jpg",
+      "video_sessions": [
+        "https://www.youtube.com/watch?v=hGU2ceM8aVY&t=4032s"
+      ],
+      "registration_date": "15/03/2022",
+      "progress": 56
     },
     {
       "id": 2,
-      "name": "Ricocan Bits",
-      "description": "Chicken and vegetables",
-      "price": 20,
-      "image": "https://patihuellas.pe/wp-content/uploads/2021/05/CACHORROS-POLLO.jpg"
+      "treatment_id": 2,
+      "patient_id": 2,
+      "title": "Neck Spine",
+      "description": "Your lumbar spine consists of the five bones (vertebra) in your lower back. Your lumbar vertebrae, known as L1 to L5, are the largest of your entire spine. Your lumbar spine is located below your 12 chest (thoracic) vertebra and above the five fused bones that make up your triangular-shaped sacrum bone.",
+      "sessions_quantity": 28,
+      "physiotherapist_id": 1,
+      "photo": "https://orientacion.universia.edu.pe/imgs2011/imagenes/1k---2020--2020_10_30_143836@2x.766.jpg",
+      "video_sessions": [
+        "https://www.youtube.com/watch?v=hGU2ceM8aVY&t=4032s"
+      ],
+      "registration_date": "24/05/2022",
+      "progress": 35
+    },
+    {
+      "id": 3,
+      "treatment_id": 3,
+      "patient_id": 2,
+      "title": "Obesity",
+      "description": "Your lumbar spine consists of the five bones (vertebra) in your lower back. Your lumbar vertebrae, known as L1 to L5, are the largest of your entire spine. Your lumbar spine is located below your 12 chest (thoracic) vertebra and above the five fused bones that make up your triangular-shaped sacrum bone.",
+      "sessions_quantity": 28,
+      "physiotherapist_id": 1,
+      "photo": "https://orientacion.universia.edu.pe/imgs2011/imagenes/1k---2020--2020_10_30_143836@2x.766.jpg",
+      "video_sessions": [
+        "https://www.youtube.com/watch?v=hGU2ceM8aVY&t=4032s"
+      ],
+      "registration_date": "17/09/2022",
+      "progress": 10
     }
   ],
-  "appointments_home": [
+  "treatments": [
     {
       "id": 1,
-      "veterinarian": "Rodrigo Ugarte",
-      "date": "12/12/2022"
+      "title": "Lumbar Spine",
+      "description": "Your lumbar spine consists of the five bones (vertebra) in your lower back. Your lumbar vertebrae, known as L1 to L5, are the largest of your entire spine. Your lumbar spine is located below your 12 chest (thoracic) vertebra and above the five fused bones that make up your triangular-shaped sacrum bone.",
+      "sessions_quantity": 28,
+      "physiotherapist_id": 1,
+      "photo": "https://orientacion.universia.edu.pe/imgs2011/imagenes/1k---2020--2020_10_30_143836@2x.766.jpg",
+      "video_sessions": [
+        "https://www.youtube.com/watch?v=hGU2ceM8aVY&t=4032s"
+      ]
     },
     {
       "id": 2,
-      "veterinarian": "María Vela",
-      "date": "12/12/2022"
+      "title": "Neck Spine",
+      "description": "Your neck spine consists of the first seven vertebrae in your spine. It provides support for the weight of your head, surrounds and protects your spinal cord, and allows for a wide range of head motions. Many conditions affect this area of your spine, including neck pain, arthritis, degenerative bone and disk disease, and stenosis. Many treatment options are available.",
+      "sessions_quantity": 30,
+      "physiotherapist_id": 2,
+      "photo": "https://orientacion.universia.edu.pe/imgs2011/imagenes/1k---2020--2020_10_30_143836@2x.766.jpg",
+      "video_sessions": [
+        "https://www.youtube.com/watch?v=hGU2ceM8aVY&t=4032s"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Obesity",
+      "description": "Obesity is a complex disease involving an excessive amount of body fat. Obesity isn't just a cosmetic concern. It's a medical problem that increases the risk of other diseases and health problems, such as heart disease, diabetes, high blood pressure and certain cancers.",
+      "sessions_quantity": 20,
+      "physiotherapist_id": 3,
+      "photo": "https://orientacion.universia.edu.pe/imgs2011/imagenes/1k---2020--2020_10_30_143836@2x.766.jpg",
+      "video_sessions": [
+        "https://www.youtube.com/watch?v=hGU2ceM8aVY&t=4032s"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Knees",
+      "description": "Knee pain is a common complaint that affects people of all ages. Knee pain may be the result of an injury, such as a ruptured ligament or torn cartilage. Medical conditions — including arthritis, gout and infections — also can cause knee pain. Many types of minor knee pain respond well to self-care measures.",
+      "sessions_quantity": 15,
+      "physiotherapist_id": 1,
+      "photo": "https://orientacion.universia.edu.pe/imgs2011/imagenes/1k---2020--2020_10_30_143836@2x.766.jpg",
+      "video_sessions": [
+        "https://www.youtube.com/watch?v=hGU2ceM8aVY&t=4032s"
+      ]
     }
   ],
-  "veterinarians_near_you": [
+  "physiotherapists": [
     {
       "id": 1,
-      "name": "Alonso Poma",
-      "score": 5.0,
-      "image": "https://i0.wp.com/revista.weepec.com/wp-content/uploads/2021/02/vet-and-pet-EESKSLX.jpg",
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7802.697478788431!2d-77.07652748935323!3d-12.088261200000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c9b8ebc551c3%3A0xa09e535f5953b183!2sTerra%20Pets%20-%20Consultorio%20Veterinario!5e0!3m2!1ses!2spe!4v1664259713122!5m2!1ses!2spe"
+      "first_name": "Jhon",
+      "paternal_surname": "Doe",
+      "maternal_surname": "Hammer",
+      "specialization": "Neck",
+      "age": 24,
+      "location": "Surco",
+      "birthdate": "24/05/1998",
+      "email": "jhondoe@gmail.com",
+      "rating": 4.5,
+      "consultations_quantity": 30,
+      "photo": "https://clinicamg.com/wp-content/uploads/2016/01/Jose.jpg"
     },
     {
       "id": 2,
-      "name": "Carmen Lopez",
-      "score": 4.0,
-      "image": "https://imgs.deperu.com/mujeres/veterinaria_gato.jpg",
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7802.789310335075!2d-77.05607533022466!3d-12.085112200000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c8f65722d2b3%3A0x48bb049b20ab6e24!2sCL%C3%8DNICA%20VETERINARIA%20QSVET!5e0!3m2!1ses!2spe!4v1664259824921!5m2!1ses!2spe"
+      "first_name": "Joel",
+      "paternal_surname": "Villanueva",
+      "maternal_surname": "Del Rio",
+      "specialization": "Knees",
+      "age": 20,
+      "location": "Miraflores",
+      "birthdate": "24/05/1999",
+      "email": "jhondoe@gmail.com",
+      "rating": 3.2,
+      "consultations_quantity": 33,
+      "photo": "https://clinicamg.com/wp-content/uploads/2016/01/Jose.jpg"
+    },
+    {
+      "id": 3,
+      "first_name": "William",
+      "paternal_surname": "Cifuentes",
+      "maternal_surname": "Lopez",
+      "specialization": "Geriatrics",
+      "age": 26,
+      "location": "San Martin de Porres",
+      "birthdate": "24/05/1999",
+      "email": "jhondoe@gmail.com",
+      "rating": 5,
+      "consultations_quantity": 50,
+      "photo": "https://clinicamg.com/wp-content/uploads/2016/01/Jose.jpg"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "patient_id": 1,
+      "physiotherapist_id": 1,
+      "physiotherapist": "Jhon Doe",
+      "reviewer": "Luis Pineda",
+      "stars": 5,
+      "description": "The best medical check-up I've ever had, I'm cured of everything."
+    },
+    {
+      "id": 2,
+      "patient_id": 1,
+      "physiotherapist_id": 1,
+      "physiotherapist": "Jhon Doe",
+      "reviewer": "Luis Pineda",
+      "stars": 3,
+      "description": "The best medical check-up I've ever had, I'm cured of everything."
+    },
+    {
+      "id": 3,
+      "patient_id": 2,
+      "physiotherapist_id": 2,
+      "physiotherapist": "Joel Villanueva",
+      "reviewer": "Leonel Messi",
+      "stars": 3,
+      "description": "The best medical check-up I've ever had, I'm cured of everything."
+    },
+    {
+      "id": 4,
+      "patient_id": 1,
+      "physiotherapist_id": 3,
+      "physiotherapist": "Luis Pineda",
+      "reviewer": "Fernando Alcántara",
+      "stars": 2,
+      "description": "The best medical check-up I've ever had, I'm cured of everything."
+    }
+  ],
+  "patients": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "first_name": "Luis",
+      "last_name": "Pineda",
+      "age": 19,
+      "birthday": "03/08/2003",
+      "email": "jhondoe@gmail.com",
+      "appointment_quantity": 12,
+      "photo": "https://clinicamg.com/wp-content/uploads/2016/01/Jose.jpg",
+      "created_at": "10/11/2022"
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "first_name": "Leonel",
+      "last_name": "Messi",
+      "age": 34,
+      "birthday": "03/08/1988",
+      "email": "jhondoe@gmail.com",
+      "appointment_quantity": 11,
+      "photo": "https://clinicamg.com/wp-content/uploads/2016/01/Jose.jpg",
+      "created_at": "10/11/2022"
+    },
+    {
+      "id": 3,
+      "user_id": 3,
+      "first_name": "Elver",
+      "last_name": "Galar",
+      "age": 19,
+      "birthday": "03/08/2003",
+      "email": "jhondoe@gmail.com",
+      "appointment_quantity": 12,
+      "photo": "https://clinicamg.com/wp-content/uploads/2016/01/Jose.jpg",
+      "created_at": "10/11/2022"
+    }
+  ],
+  "appointments": [
+    {
+      "id": 1,
+      "patient_id": 1,
+      "patient_name": "Luis Pineda",
+      "physiotherapist_id": 1,
+      "physiotherapist_name": "Jhon Doe",
+      "date": "14/09/2022",
+      "hour": 13,
+      "minute": 30,
+      "ampm": "pm",
+      "topic": "Obesity",
+      "done": true,
+      "diagnosis": "keep moving."
+    },
+    {
+      "id": 2,
+      "patient_id": 1,
+      "patient_name": "Luis Pineda",
+      "physiotherapist_id": 2,
+      "physiotherapist_name": "Joel Villanueva",
+      "date": "18/10/2022",
+      "hour": 10,
+      "minute": 30,
+      "ampm": "am",
+      "topic": "Backache",
+      "done": false,
+      "diagnosis": ""
+    },
+    {
+      "id": 3,
+      "patient_id": 2,
+      "patient_name": "Leonel Messi",
+      "physiotherapist_id": 3,
+      "physiotherapist_name": "William Cifuentes",
+      "date": "24/10/2022",
+      "hour": 7,
+      "minute": 30,
+      "ampm": "am",
+      "topic": "Knees",
+      "done": false,
+      "diagnosis": ""
+    }
+  ],
+  "medical-histories": [
+    {
+      "id": 1,
+      "patient_id": 2,
+      "patient_name": "Leonel Messi",
+      "height": 1.8,
+      "weight": 70,
+      "body_mass": 32,
+      "allergies": [
+        "Penicillin",
+        "Insulin",
+        "Peanut"
+      ],
+      "pathological_history": [
+        "Cancer",
+        "Arterial Hypertension",
+        "AIDS",
+        "Gonorrhea"
+      ]
+    },
+    {
+      "id": 2,
+      "patient_id": 1,
+      "patient_name": "Luis Pineda",
+      "height": 1.8,
+      "weight": 70,
+      "body_mass": 32,
+      "allergies": [
+        "Penicillin",
+        "Insulin"
+      ],
+      "pathological_history": []
+    },
+    {
+      "id": 3,
+      "patient_id": 3,
+      "patient_name": "Elver Galar",
+      "height": 1.8,
+      "weight": 70,
+      "body_mass": 32,
+      "allergies": [
+        "Penicillin",
+        "Insulin",
+        "Peanut"
+      ],
+      "pathological_history": [
+        "Cancer",
+        "Arterial Hypertension",
+        "AIDS",
+        "Gonorrhea"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "luis@email.com",
+      "password": "luis12",
+      "type": "patient"
+    },
+    {
+      "id": 2,
+      "email": "leo@email.com",
+      "password": "leo12",
+      "type": "patient"
+    },
+    {
+      "id": 3,
+      "email": "elver@email.com",
+      "password": "elver12",
+      "type": "patient"
+    },
+    {
+      "id": 4,
+      "email": "jhon@email.com",
+      "password": "jhon12",
+      "type": "physiotherapist"
+    },
+    {
+      "id": 5,
+      "email": "joe@email.com",
+      "password": "joe12",
+      "type": "physiotherapist"
+    },
+    {
+      "id": 6,
+      "email": "william@email.com",
+      "password": "william12",
+      "type": "physiotherapist"
     }
   ]
 }
+
