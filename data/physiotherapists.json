@@ -1,6 +1,7 @@
  [
   {
     "id": 1,
+   "user_id": 4,
     "first_name": "Jhon",
     "paternal_surname": "Doe",
     "maternal_surname": "Hammer",
@@ -15,6 +16,7 @@
   },
   {
     "id": 2,
+   "user_id": 5,
     "first_name": "Joel",
     "paternal_surname": "Villanueva",
     "maternal_surname": "Del Rio",
@@ -29,6 +31,7 @@
   },
   {
     "id": 3,
+   "user_id": 6,
     "first_name": "William",
     "paternal_surname": "Cifuentes",
     "maternal_surname": "Lopez",
