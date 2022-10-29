@@ -5,7 +5,9 @@ const reviews = require("./data/reviews.json");
 const patients = require("./data/patients.json");
 const appointments = require("./data/appointments.json");
 const medical_histories = require("./data/medical-histories.json");
+const educations = require("./data/educations.json");
 const users = require("./data/users.json");
+
 
 
 
@@ -17,6 +19,7 @@ module.exports = {
   patients,
   appointments,
   medical_histories,
+  educations,
   users
 }
 
