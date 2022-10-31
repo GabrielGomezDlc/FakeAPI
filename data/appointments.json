@@ -40,5 +40,19 @@
     "topic": "Knees",
     "done": false,
     "diagnosis": ""
+  },
+  {
+    "id": 4,
+    "patient_id": 1,
+    "patient_name": "Luis Pineda",
+    "physiotherapist_id": 3,
+    "physiotherapist_name": "William Cifuentes",
+    "date": "24/10/2022",
+    "hour": 7,
+    "minute": 30,
+    "ampm": "am",
+    "topic": "Knees",
+    "done": false,
+    "diagnosis": ""
   }
 ]
