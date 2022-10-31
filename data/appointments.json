@@ -43,8 +43,8 @@
   },
   {
     "id": 4,
-    "patient_id": 2,
-    "patient_name": "Leonel Messi",
+    "patient_id": 1,
+    "patient_name": "Luis Pineda",
     "physiotherapist_id": 3,
     "physiotherapist_name": "William Cifuentes",
     "date": "24/10/2022",
