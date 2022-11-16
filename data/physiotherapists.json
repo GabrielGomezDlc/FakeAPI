@@ -1,47 +1,47 @@
  [
   {
     "id": 1,
-   "user_id": 4,
-    "first_name": "Jhon",
-    "paternal_surname": "Doe",
-    "maternal_surname": "Hammer",
+   "userId": 4,
+    "firstName": "Jhon",
+    "paternalSurname": "Doe",
+    "maternalSurname": "Hammer",
     "specialization": "Neck",
     "age": 24,
     "location": "Surco",
     "birthdate": "24/05/1998",
     "email": "jhondoe@gmail.com",
     "rating": 4.5,
-    "consultations_quantity": 30,
-    "photo": "https://clinicamg.com/wp-content/uploads/2016/01/Jose.jpg"
+    "consultationsQuantity": 30,
+    "photoUrl": "https://clinicamg.com/wp-content/uploads/2016/01/Jose.jpg"
   },
   {
     "id": 2,
-   "user_id": 5,
-    "first_name": "Joel",
-    "paternal_surname": "Villanueva",
-    "maternal_surname": "Del Rio",
+   "userId": 5,
+    "firstName": "Joel",
+    "paternalSurname": "Villanueva",
+    "maternalSurname": "Del Rio",
     "specialization": "Knees",
     "age": 20,
     "location": "Miraflores",
     "birthdate": "24/05/1999",
     "email": "jhondoe@gmail.com",
     "rating": 3.2,
-    "consultations_quantity": 33,
-    "photo": "https://clinicamg.com/wp-content/uploads/2016/01/Jose.jpg"
+    "consultationsQuantity": 33,
+    "photoUrl": "https://clinicamg.com/wp-content/uploads/2016/01/Jose.jpg"
   },
   {
     "id": 3,
-   "user_id": 6,
-    "first_name": "William",
-    "paternal_surname": "Cifuentes",
-    "maternal_surname": "Lopez",
+   "userId": 6,
+    "firstName": "William",
+    "paternalSurname": "Cifuentes",
+    "maternalSurname": "Lopez",
     "specialization": "Geriatrics",
     "age": 26,
     "location": "San Martin de Porres",
     "birthdate": "24/05/1999",
     "email": "jhondoe@gmail.com",
     "rating": 5,
-    "consultations_quantity": 50,
-    "photo": "https://clinicamg.com/wp-content/uploads/2016/01/Jose.jpg"
+    "consultationsQuantity": 50,
+    "photoUrl": "https://clinicamg.com/wp-content/uploads/2016/01/Jose.jpg"
   }
 ]
