@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "patient_id": 2,
-    "patient_name": "Leonel Messi",
+    "patientId": 2,
+    "patientName": "Leonel Messi",
     "height": 1.8,
     "weight": 70,
-    "body_mass": 32,
+    "bodyMass": 32,
     "allergies": [
       "Penicillin",
       "Insulin",
       "Peanut"
     ],
-    "pathological_history": [
+    "pathologicalHistory": [
       "Cancer",
       "Arterial Hypertension",
       "AIDS",
@@ -20,30 +20,30 @@
   },
   {
     "id": 2,
-    "patient_id": 1,
-    "patient_name": "Luis Pineda",
+    "patientId": 1,
+    "patientName": "Luis Pineda",
     "height": 1.8,
     "weight": 70,
-    "body_mass": 32,
+    "bodyMass": 32,
     "allergies": [
       "Penicillin",
       "Insulin"
     ],
-    "pathological_history": []
+    "pathologicalHistory": []
   },
   {
     "id": 3,
-    "patient_id": 3,
-    "patient_name": "Elver Galar",
+    "patientId": 3,
+    "patientName": "Elver Galar",
     "height": 1.8,
     "weight": 70,
-    "body_mass": 32,
+    "bodyMass": 32,
     "allergies": [
       "Penicillin",
       "Insulin",
       "Peanut"
     ],
-    "pathological_history": [
+    "pathologicalHistory": [
       "Cancer",
       "Arterial Hypertension",
       "AIDS",
