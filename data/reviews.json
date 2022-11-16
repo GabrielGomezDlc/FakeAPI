@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "patient_id": 1,
-    "physiotherapist_id": 1,
+    "patientId": 1,
+    "physiotherapistId": 1,
     "physiotherapist": "Jhon Doe",
     "reviewer": "Luis Pineda",
     "stars": 5,
@@ -10,8 +10,8 @@
   },
   {
     "id": 2,
-    "patient_id": 1,
-    "physiotherapist_id": 1,
+    "patientId": 1,
+    "physiotherapistId": 1,
     "physiotherapist": "Jhon Doe",
     "reviewer": "Luis Pineda",
     "stars": 3,
@@ -19,8 +19,8 @@
   },
   {
     "id": 3,
-    "patient_id": 2,
-    "physiotherapist_id": 2,
+    "patientId": 2,
+    "physiotherapistId": 2,
     "physiotherapist": "Joel Villanueva",
     "reviewer": "Leonel Messi",
     "stars": 3,
@@ -28,8 +28,8 @@
   },
   {
     "id": 4,
-    "patient_id": 1,
-    "physiotherapist_id": 3,
+    "patientId": 1,
+    "physiotherapistId": 3,
     "physiotherapist": "Luis Pineda",
     "reviewer": "Fernando Alcántara",
     "stars": 2,
